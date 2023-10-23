@@ -1,2 +1,2 @@
-# intro_AI23
-Introduktionskurs AI23
+# Introduktionskurs till AI
+Assignment related to the course Introduktionskurs till AI
